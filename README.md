@@ -2,7 +2,7 @@
 
 My name is Nander Carmo and I am a young Brazilian with a passion for programming and engineering! I am graduated as a Mechatronics technician from CEFET-MG and currently I am studying Electrical Engineering at UFMG, where I am part of two teams of science communication and innovation: [EITA!](https://eitaufmg.wixsite.com/eita) and [SDF](http://demonstracoes.fisica.ufmg.br/).
 
-In my free time I like to play and watch football (⚽️), I am also in love with Ultimate Frisbee and I am proudly part of an amateur team [Silver UFOs](https://www.instagram.com/ovnisdeprata/) (🥏), reading books (📚) and of course, all these things are better when done with music (🎵)!
+In my free time I like to play and watch football (⚽️), I am also in love with Ultimate Frisbee and I am proudly part of an amateur team [Óvnis de Prata](https://www.instagram.com/ovnisdeprata/) (🥏), reading books (📚) and of course, all these things are better when done with music (🎵)!
 
 Would you like to find me? Check out my social networks!
 
