@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there!
 
-<!--
-**NanderSantos/NanderSantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Nander Carmo and I am a young Brazilian with a passion for programming and engineering! I am graduated as a Mechatronics technician from CEFET-MG and currently I am studying Electrical Engineering at UFMG, where I am part of two teams of science communication and innovation: [EITA!](https://eitaufmg.wixsite.com/eita) and [SDF](http://demonstracoes.fisica.ufmg.br/).
 
-Here are some ideas to get you started:
+In my free time I like to play and watch football (⚽️), I am also in love with Ultimate Frisbee and I am proudly part of an amateur team [Silver UFOs](https://www.instagram.com/ovnisdeprata/) (🥏), reading books (📚) and of course, all these things are better when done with music (🎵)!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Would you like to find me? Check out my social networks!
+
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/nandercarmo/)](https://www.instagram.com/nandercarmo/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/NanderDo)](https://twitter.com/NanderDo)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nander-carmo-8a165b16a)](https://www.linkedin.com/in/nander-carmo-8a165b16a/)
+
+[![Nanders's github stats](https://github-readme-stats.vercel.app/api?username=NanderSantos&count_private=true)](https://github.com/NanderSantos)
