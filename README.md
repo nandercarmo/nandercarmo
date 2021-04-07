@@ -6,7 +6,9 @@ In my free time I like to play and watch football (⚽️), I am also in love wi
 
 ---
 
-### Would you like to find me? Check out my social networks!
+### Would you like to find me? 
+
+Check out my social networks!
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/nander-carmo-8a165b16a)](https://www.linkedin.com/in/nander-carmo-8a165b16a/)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/nandercarmo/)](https://www.instagram.com/nandercarmo/)
