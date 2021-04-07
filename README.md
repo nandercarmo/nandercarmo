@@ -14,8 +14,6 @@ In my free time I like to play and watch football (⚽️), I am also in love wi
 
 ---
 
-### Some of my stats
-
 [![My github stats](https://github-readme-stats.vercel.app/api?username=NanderSantos&count_private=true&show_icons=true&theme=radical)](https://github.com/NanderSantos)
 
 [![My favorite languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NanderSantos&count_private=true&show_icons=true&layout=compact&theme=radical)](https://github.com/NanderSantos)
