@@ -10,4 +10,6 @@ Would you like to find me? Check out my social networks!
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/NanderDo)](https://twitter.com/NanderDo)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/nander-carmo-8a165b16a)](https://www.linkedin.com/in/nander-carmo-8a165b16a/)
 
-[![Nanders's github stats](https://github-readme-stats.vercel.app/api?username=NanderSantos&count_private=true&show_icons=true&theme=radical)](https://github.com/NanderSantos)
+[![My github stats](https://github-readme-stats.vercel.app/api?username=NanderSantos&count_private=true&show_icons=true&theme=radical)](https://github.com/NanderSantos)
+
+[![My favorite languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NanderSantos&count_private=true&show_icons=true&theme=radical)](https://github.com/NanderSantos)
