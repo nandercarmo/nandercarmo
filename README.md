@@ -14,6 +14,14 @@ Check out my social networks!
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/nandercarmo/)](https://www.instagram.com/nandercarmo/)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/NanderDo)](https://twitter.com/NanderDo)
 
+<!DOCTYPE html>
+<html>
+  <script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer>
+  </script>
+  <div class="LI-profile-badge"  data-version="v1" data-size="large" data-locale="pt_BR" data-type="horizontal" data-theme="dark" data-vanity="nander-carmo-8a165b16a">
+  </div>
+</html>
+
 ---
 
 [![My github stats](https://github-readme-stats.vercel.app/api?username=NanderSantos&count_private=true&show_icons=true&theme=radical)](https://github.com/NanderSantos)
