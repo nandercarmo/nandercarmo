@@ -14,7 +14,6 @@ Check out my social networks!
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/nandercarmo/)](https://www.instagram.com/nandercarmo/)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/NanderDo)](https://twitter.com/NanderDo)
 
-<!DOCTYPE html>
 <html>
   <script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer>
   </script>
